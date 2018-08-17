@@ -1,7 +1,0 @@
-1
-1
-1
-1
-1
-
- 1:GeneID_Human, 2:GeneID_Mouse, 3:HumanLibsgRNAs, 4:MouseLibsgRNAs, 5:Version
