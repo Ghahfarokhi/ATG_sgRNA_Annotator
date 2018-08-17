@@ -19,5 +19,29 @@ In order to use it, the library folder and the excel file must be in the same di
 
 Enjoy using it :)
 
+References:
+
+Genome-wide CRISPR-guide RNA libraries (Human Genes):
+
+GeCKOv2 library
+Sanjana N. et al. (2014) Improved vectors and genome-wide libraries for CRISPR screening. Nature Methods
+
+TKO (Toronto KnockOut) library
+Hart T. et al. (2015) High-Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities. Cell
+
+Knockout library
+Wang T. et al. (2014) Genetic Screens in Human Cells Using the CRISPR-Cas9 System. Science
+
+Genome-wide CRISPR-guide RNA libraries (Mouse Genes)
+
+GeCKOv2 library
+Sanjana N. et al. (2014) Improved vectors and genome-wide libraries for CRISPR screening. Nature Methods
+
+Sanger Institute library
+Koike-Yusa H. et al. (2014) Genome-wide recessive genetic screening in mammalian cells with a lentiviral CRISPR-guide RNA library. Nat Biotech
+
+Knockout library
+Schmid-Burgk J. et al. (2015) A genome-wide CRISPR screen identifies NEK7 as an essential component of NLRP3 inflammasome activation. JBC
+
 Contact info:
 Amir.Taheri.Ghahfarokhi@gmail.com
