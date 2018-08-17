@@ -35,6 +35,7 @@ Knockout library
 Schmid-Burgk J. et al. (2015) A genome-wide CRISPR screen identifies NEK7 as an essential component of NLRP3 inflammasome activation. JBC
 
 Step-by-step guideline:
+
 1-	Download and save Library folder and the sgRNA_Annotator.xlsm file in the same folder:
  
 2-	Make sure that all txt files are in the Library folder:
@@ -45,14 +46,10 @@ Step-by-step guideline:
  
 5-	If you already have the genebank file, click on the “Browse” button and select the file for annotations. Otherwise, click on “Download RefSeq file” button, and wait! The latter should download the genbank file for the RefSeq, and annotate the sgRNAs (can be found in the same folder as the Excel file is).
  
-
- 
 6-	Check the dual-sgRNA combination, adjust the distance between cut_sites if required and click on the “Update Dual-sgRNA” button for your changes to be applied:
  
 7-	Import the generated genbank file into CLC, the sgRNAs are annotated as “CRISPR” by default.
  
-
-
 Enjoy using it :)
 
 Contact info:
