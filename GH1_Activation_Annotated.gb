@@ -1,0 +1,306 @@
+LOCUS       NC_000017               2137 bp    DNA     linear   CON 22-NOV-2020
+DEFINITION  Homo sapiens chromosome 17, GRCh38.p13 Primary Assembly.
+ACCESSION   NC_000017 REGION: complement(63917203..63919339)
+VERSION     NC_000017.11
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.39
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2137)
+  AUTHORS   Zody,M.C., Garber,M., Adams,D.J., Sharpe,T., Harrow,J.,
+            Lupski,J.R., Nicholson,C., Searle,S.M., Wilming,L., Young,S.K.,
+            Abouelleil,A., Allen,N.R., Bi,W., Bloom,T., Borowsky,M.L.,
+            Bugalter,B.E., Butler,J., Chang,J.L., Chen,C.K., Cook,A., Corum,B.,
+            Cuomo,C.A., de Jong,P.J., DeCaprio,D., Dewar,K., FitzGerald,M.,
+            Gilbert,J., Gibson,R., Gnerre,S., Goldstein,S., Grafham,D.V.,
+            Grocock,R., Hafez,N., Hagopian,D.S., Hart,E., Norman,C.H.,
+            Humphray,S., Jaffe,D.B., Jones,M., Kamal,M., Khodiyar,V.K.,
+            LaButti,K., Laird,G., Lehoczky,J., Liu,X., Lokyitsang,T.,
+            Loveland,J., Lui,A., Macdonald,P., Major,J.E., Matthews,L.,
+            Mauceli,E., McCarroll,S.A., Mihalev,A.H., Mudge,J., Nguyen,C.,
+            Nicol,R., O'Leary,S.B., Osoegawa,K., Schwartz,D.C., Shaw-Smith,C.,
+            Stankiewicz,P., Steward,C., Swarbreck,D., Venkataraman,V.,
+            Whittaker,C.A., Yang,X., Zimmer,A.R., Bradley,A., Hubbard,T.,
+            Birren,B.W., Rogers,J., Lander,E.S. and Nusbaum,C.
+  TITLE     DNA sequence of human chromosome 17 and analysis of rearrangement
+            in the human lineage
+  JOURNAL   Nature 440 (7087), 1045-1049 (2006)
+   PUBMED   16625196
+REFERENCE   2  (bases 1 to 2137)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   3  (bases 1 to 2137)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000679.2.
+            On Feb 3, 2014 this sequence version replaced NC_000017.10.
+            Assembly Name: GRCh38.p13 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: Homo sapiens Updated Annotation
+                                           Release 109.20201120
+            Annotation Version          :: 109.20201120
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 8.5
+            Annotation Method           :: Best-placed RefSeq; propagated
+                                           RefSeq model
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     CRISPRa 433..452
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa 297..316
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa complement(303..322)
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa 300..319
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa 301..320
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa 291..310
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Calabrese
+     CRISPRa 305..324
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Dolcetto
+     CRISPRa complement(390..409)
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Dolcetto
+     CRISPRa 326..345
+     /label=CRISPRa
+     /note=PMID: 30575746 _ Dolcetto
+     source          1..2137
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+     gene            complement(1464..>2137)
+                     /gene="LOC112268204"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /db_xref="GeneID:112268204"
+     ncRNA           complement(join(1464..1550,1696..>1743))
+                     /ncRNA_class="lncRNA"
+                     /gene="LOC112268204"
+                     /product="uncharacterized LOC112268204, transcript variant
+                     X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 100% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 3 samples
+                     with support for all annotated introns"
+                     /transcript_id="XR_002958148.1"
+                     /db_xref="GeneID:112268204"
+     gene            501..2137
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /note="growth hormone 1; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+     mRNA            join(501..573,834..994,1416..1580,1834..2137)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /product="growth hormone 1, transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_022560.4"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+     mRNA            join(501..573,834..994,1249..1323,1416..1580,1834..2137)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /product="growth hormone 1, transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_022559.4"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+     mRNA            join(501..573,834..994,1204..1323,1416..1580,1834..2137)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /product="growth hormone 1, transcript variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000515.5"
+                     /db_xref="Ensembl:ENST00000323322.10"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+     CDS             join(564..573,834..994,1416..1580,1834..2031)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /note="isoform 3 precursor is encoded by transcript
+                     variant 3; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="somatotropin isoform 3 precursor"
+                     /protein_id="NP_072054.1"
+                     /db_xref="CCDS:CCDS11654.1"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+                     /translation="MATGSRTSLLLAFGLLCLPWLQEGSAFPTIPLSRLFDNAMLRAH
+                     RLHQLAFDTYQEFNLELLRISLLLIQSWLEPVQFLRSVFANSLVYGASDSNVYDLLKD
+                     LEEGIQTLMGRLEDGSPRTGQIFKQTYSKFDTNSHNDDALLKNYGLLYCFRKDMDKVE
+                     TFLRIVQCRSVEGSCGF"
+     CDS             join(564..573,834..994,1249..1323,1416..1580,1834..2031)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /note="isoform 2 precursor is encoded by transcript
+                     variant 2; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="somatotropin isoform 2 precursor"
+                     /protein_id="NP_072053.1"
+                     /db_xref="CCDS:CCDS45760.1"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+                     /translation="MATGSRTSLLLAFGLLCLPWLQEGSAFPTIPLSRLFDNAMLRAH
+                     RLHQLAFDTYQEFNPQTSLCFSESIPTPSNREETQQKSNLELLRISLLLIQSWLEPVQ
+                     FLRSVFANSLVYGASDSNVYDLLKDLEEGIQTLMGRLEDGSPRTGQIFKQTYSKFDTN
+                     SHNDDALLKNYGLLYCFRKDMDKVETFLRIVQCRSVEGSCGF"
+     CDS             join(564..573,834..994,1204..1323,1416..1580,1834..2031)
+                     /gene="GH1"
+                     /gene_synonym="GH; GH-N; GHB5; GHN; hGH-N; IGHD1A; IGHD1B;
+                     IGHD2"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="somatotropin isoform 1 precursor"
+                     /protein_id="NP_000506.2"
+                     /db_xref="CCDS:CCDS11653.1"
+                     /db_xref="Ensembl:ENSP00000312673.5"
+                     /db_xref="GeneID:2688"
+                     /db_xref="HGNC:HGNC:4261"
+                     /db_xref="MIM:139250"
+                     /translation="MATGSRTSLLLAFGLLCLPWLQEGSAFPTIPLSRLFDNAMLRAH
+                     RLHQLAFDTYQEFEEAYIPKEQKYSFLQNPQTSLCFSESIPTPSNREETQQKSNLELL
+                     RISLLLIQSWLEPVQFLRSVFANSLVYGASDSNVYDLLKDLEEGIQTLMGRLEDGSPR
+                     TGQIFKQTYSKFDTNSHNDDALLKNYGLLYCFRKDMDKVETFLRIVQCRSVEGSCGF"
+ORIGIN      
+        1 cagaagtgga attcaggact gaatcgtgct cacaaccccc acaatctatt ggctgtgctt
+       61 ggcccctttt cccaacacac acattctgtc tggtgggtgg aggttaaaca tgcggggagg
+      121 aggaaaggga taggatagag aatgggatgt ggtcggtagg gggtctcaag gactggctat
+      181 cctgacatcc ttcgccgcgt gcaggttggc caccatggcc tgcggccaga gggcacccac
+      241 gtgaccctta aagagaggac aagttgggtg gtatctctgg ctgacactct gtgcacaacc
+      301 ctcacaacac tggtgacggt gggaagggaa agatgacaag ccagggggca tgatcccagc
+      361 atgtgtggga ggagcttcta aattatccat tagcacaagc ccgtcagtgg ccccatgcat
+      421 aaatgtacac agaaacaggt ggggtcaaca gtgggagaga aggggccagg gtataaaaag
+      481 ggcccacaag agaccagctc aaggatccca aggcccaact ccccgaacca ctcagggtcc
+      541 tgtggacagc tcacctagct gcaatggcta caggtaagcg cccctaaaat ccctttgggc
+      601 acaatgtgtc ctgaggggag aggcagcgac ctgtagatgg gacgggggca ctaaccctca
+      661 ggtttggggc ttctgaatgt gagtatcgcc atgtaagccc agtatttggc caatctcaga
+      721 aagctcctgg tccctggagg gatggagaga gaaaaacaaa cagctcctgg agcagggaga
+      781 gtgctggcct cttgctctcc ggctccctct gttgccctct ggtttctccc caggctcccg
+      841 gacgtccctg ctcctggctt ttggcctgct ctgcctgccc tggcttcaag agggcagtgc
+      901 cttcccaacc attcccttat ccaggctttt tgacaacgct atgctccgcg cccatcgtct
+      961 gcaccagctg gcctttgaca cctaccagga gtttgtaagc tcttggggaa tgggtgcgca
+     1021 tcaggggtgg caggaagggg tgactttccc ccgctgggaa ataagaggag gagactaagg
+     1081 agctcagggt ttttcccgaa gcgaaaatgc aggcagatga gcacacgctg agtgaggttc
+     1141 ccagaaaagt aacaatggga gctggtctcc agcgtagacc ttggtgggcg gtccttctcc
+     1201 taggaagaag cctatatccc aaaggaacag aagtattcat tcctgcagaa cccccagacc
+     1261 tccctctgtt tctcagagtc tattccgaca ccctccaaca gggaggaaac acaacagaaa
+     1321 tccgtgagtg gatgccttct ccccaggcgg ggatggggga gacctgtagt cagagccccc
+     1381 gggcagcaca gccaatgccc gtccttcccc tgcagaacct agagctgctc cgcatctccc
+     1441 tgctgctcat ccagtcgtgg ctggagcccg tgcagttcct caggagtgtc ttcgccaaca
+     1501 gcctggtgta cggcgcctct gacagcaacg tctatgacct cctaaaggac ctagaggaag
+     1561 gcatccaaac gctgatgggg gtgagggtgg cgccaggggt ccccaatcct ggagccccac
+     1621 tgactttgag agctgtgtta gagaaacact gctgccctct ttttagcagt caggccctga
+     1681 cccaagagaa ctcaccttat tcttcatttc ccctcgtgaa tcctccaggc ctttctctac
+     1741 accctgaagg ggagggagga aaatgaatga atgagaaagg gagggaacag tacccaagcg
+     1801 cttggcctct ccttctcttc cttcactttg cagaggctgg aagatggcag cccccggact
+     1861 gggcagatct tcaagcagac ctacagcaag ttcgacacaa actcacacaa cgatgacgca
+     1921 ctactcaaga actacgggct gctctactgc ttcaggaagg acatggacaa ggtcgagaca
+     1981 ttcctgcgca tcgtgcagtg ccgctctgtg gagggcagct gtggcttcta gctgcccggg
+     2041 tggcatccct gtgacccctc cccagtgcct ctcctggccc tggaagttgc cactccagtg
+     2101 cccaccagcc ttgtcctaat aaaattaagt tgcatca
+//
+
