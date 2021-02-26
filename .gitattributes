@@ -1,2 +1,2 @@
 * linguist-vendored
-*.xlsm linguist-language=VBA
+*.* linguist-language=VBA
