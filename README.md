@@ -39,10 +39,6 @@ Paired-sgRNAs co-transfected together with wildtype Cas9 into human/mouse cells 
 
 ---
 
-[<img src="../ghahfarokhi.github.io/assets/img/sgrna_annotator.png">](https://github.com/Ghahfarokhi/sgrna_annotator)
-
----
-
 ## Instruction
 
 #### Youtube
