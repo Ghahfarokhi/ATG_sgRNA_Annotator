@@ -1,0 +1,18 @@
+{
+  "title": "Excel - CRISPR - sgRNA Annotator",
+  "author": "Amir Taheri-Ghahfarokhi",
+  "description" : "Annotate literature CRISPR target sites directly on genbank files",
+  "ogTitle" : "CRISPR - Excel - sgRNA Annotator",
+  "ogDescription" : "Annotate literature CRISPR target sites directly on genbank files",
+  "ogImage" : "https://amirtaheri.info//assets/img/sgRNA_annotator.png",
+  "ogUrl" : "https://amirtaheri.info/sgRNA_Annotator/index.html",
+  "icon" : "../ghahfarokhi.github.io/assets/img/favicon.ico",
+  "mainCSS" : "../ghahfarokhi.github.io/src/css/main.css",
+  "navbar" : "../ghahfarokhi.github.io/common/navbar.html",
+  "markdownFile" : "README.md",
+  "downloadRepo" : true,
+  "downloadRepoLink" : "https://github.com/Ghahfarokhi/sgRNA_Annotator/archive/master.zip",
+  "downloadIcon": "../ghahfarokhi.github.io/assets/icons/zip-folder-icon.jpg",
+  "downloadIconAlt": "Download .zip",
+  "footer" : "../ghahfarokhi.github.io/common/footer.html"
+}
