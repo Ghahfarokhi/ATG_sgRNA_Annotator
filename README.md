@@ -1,8 +1,13 @@
+# sgRNA Annotator
+
+<a href="https://github.com/Ghahfarokhi/sgrna_annotator" target="_blank">
+<img src="./screenshots/github-repo.png" 
+alt="Github Repo"/></a>
+
+A macro-enabled Excel workbook (**CRISPRn-annotator.xlsm**), which could be used to quickly select paired-sgRNAs for CRISPR-mediated gene knockout experiments. A similar Excel workbook (**CRISPRai-annotator.xlsm**) can be used for picking sgRNAs for gene activation/inhibition experiments. All sgRNAs were collected from the previously reported genome-wide sgRNA libraries. Excel files automatically download the genbank files from NCBI, and annotate the CRISPRs. 
+
 <img src="./screenshots/sgRNA_Annotator_Header.png" 
 alt="sgRNA Annotator - Excel - CRISPR tool"/>
-
-# sgRNA Annotator
-A macro-enabled Excel workbook (**CRISPRn-annotator.xlsm**), which could be used to quickly select paired-sgRNAs for CRISPR-mediated gene knockout experiments. A similar Excel workbook (**CRISPRai-annotator.xlsm**) can be used for picking sgRNAs for gene activation/inhibition experiments. All sgRNAs were collected from the previously reported genome-wide sgRNA libraries. Excel files automatically download the genbank files from NCBI, and annotate the CRISPRs. 
 
 ## Introduction
 
@@ -31,6 +36,10 @@ Paired-sgRNAs co-transfected together with wildtype Cas9 into human/mouse cells 
 * **CRISPRn-Annotator.xlsm**: annotates CRISPRs used for knockout.
 
 * **CRISPRai-Annotator.xlsm**: annotates CRISPRs used for activation and inhibition.
+
+---
+
+[<img src="../ghahfarokhi.github.io/assets/img/sgrna_annotator.png">](https://github.com/Ghahfarokhi/sgrna_annotator)
 
 ---
 
