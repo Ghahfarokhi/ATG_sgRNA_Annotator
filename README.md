@@ -1,12 +1,12 @@
 # sgRNA Annotator
 
 <a href="https://github.com/Ghahfarokhi/sgrna_annotator" target="_blank">
-<img src="./screenshots/github-repo.png" 
+<img src="./Screenshots/github-repo.png" 
 alt="Github Repo"/></a>
 
 A macro-enabled Excel workbook (**CRISPRn-annotator.xlsm**), which could be used to quickly select paired-sgRNAs for CRISPR-mediated gene knockout experiments. A similar Excel workbook (**CRISPRai-annotator.xlsm**) can be used for picking sgRNAs for gene activation/inhibition experiments. All sgRNAs were collected from the previously reported genome-wide sgRNA libraries. Excel files automatically download the genbank files from NCBI, and annotate the CRISPRs. 
 
-<img src="./screenshots/sgRNA_Annotator_Header.png" 
+<img src="./Screenshots/sgRNA_Annotator_Header.png" 
 alt="sgRNA Annotator - Excel - CRISPR tool"/>
 
 ## Introduction
@@ -45,37 +45,37 @@ Paired-sgRNAs co-transfected together with wildtype Cas9 into human/mouse cells 
 
 1. Download the library and the “sgRNA_Annotator_v1.0.xlsm” workbook from my [GitHub repository]. 
 
-<img src="./screenshots/download-from-github.png" 
+<img src="./Screenshots/download-from-github.png" 
 alt="Github download zip folder" 
 style="width: 750px;"/>
 
 2. Unzip the downloaded files and make sure that all the .txt files exist in the "Library" folder:
 
-<img src="./screenshots/database.png" 
+<img src="./Screenshots/database.png" 
 alt="Files containing the CRISPR libraries" 
 style="width: 500px;"/>
 
 3. Open the “CRISPRn_Annotator_v1.0.xlsm” for gene knockout or “CRISPRai_Annotator_v1.0.xlsm” for gene activation/inhibition and click on the “Enable Content” button that appears on the yellow bar under the menu ribbon:
 
-<img src="./screenshots/enable-content.png" 
+<img src="./Screenshots/enable-content.png" 
 alt="Enable macros" 
 style="width: 500px;"/>
 
 4. Provide an official gene symbol, select the species (Human or Mouse), and click on the “Import” button:
 
-<img src="./screenshots/import.png" 
+<img src="./Screenshots/import.png" 
 alt="import button lists the CRISPRs for the targted gene" 
 style="width: 750px;"/>
 
 5. If you already have the genbank file for your targeted gene, click on the “Browse” button and select the file to be annotated. It is important to provide a gene sequence (and not a transcript). Alternatively, click on the “Download RefSeq” button, and wait for the Excel to download the genbank file. Annotated file can be found in the same folder that the Excel workbook is.
 
-<img src="./screenshots/downloaded-annotated-file-location.png" 
+<img src="./Screenshots/downloaded-annotated-file-location.png" 
 alt="annotated genbank file will be saved in the same directory" 
 style="width: 500px;"/>
 
 6. Check the Paired-sgRNA combination table. Note the "Frame" column, some combination of the sgRNAs may results in inframe deletions, which is not ideal for the knockout purposes.
 
-<img src="./screenshots/paired-sgRNAs.png" 
+<img src="./Screenshots/paired-sgRNAs.png" 
 alt="list of paired sgRNAs" 
 style="width: 750px;"/>
 
@@ -83,13 +83,13 @@ style="width: 750px;"/>
 
 8. Import the generated genbank file into your software of choice and enable the annotation types, the sgRNAs are annotated as “CRISPR” by default.
 
-<img src="./screenshots/clc-screen-annotated-crisprs.png" 
+<img src="./Screenshots/clc-screen-annotated-crisprs.png" 
 alt="visualize annotated crisprs in CLC or any other Mol Bio sofyware of choice" 
 style="width: 750px;"/>
 
 9. Selected sgRNAs can be directly converted into oligo duplexes for cloning purposes. An example of the formula for the Fwd and Rev oligos are provided below:
 
-<img src="./screenshots/other-excel-functions.jpeg" 
+<img src="./Screenshots/other-excel-functions.jpeg" 
 alt="other available excel functions in workbooks" 
 style="width: 750px;"/>
 
@@ -121,13 +121,13 @@ style="width: 750px;"/>
 
 CRISPRai_Annotator Excel workbook can be used for CRISPRa and CRISPRi applications. There are two additional inputs that need to be specified; Modulation mode (activation/inhibition) and the promoter length:
 
-<img src="./screenshots/activation-settings.png" 
+<img src="./Screenshots/activation-settings.png" 
 alt="settings for CRISPRai" 
 style="width: 750px;"/>
 
 All CRISPRn/a/i sgRNAs can be annotated on the same genbank file:
 
-<img src="./screenshots/clc-screen-capture-all-crisprnai.png" 
+<img src="./Screenshots/clc-screen-capture-all-crisprnai.png" 
 alt="all sgRNAs annotated on the same genbank file" 
 style="width: 750px;"/>
 
